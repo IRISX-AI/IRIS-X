@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.3.6",
-  "apkDownloadUrl": "https://github.com/IRISX-AI/IRIS-X/releases/download/v1.3.6/IRIS-MX.v1.3.6.apk",
-  "releaseNotes": "Production v1.3.6: Upgraded WhatsApp Ghost Automation with calibrated node search, dynamic focus polling, and DP-popup avoidance; eliminated dual-voice echo loops via native speaker state synchronization; restored real-time microphone unmuting; and stabilized accessibility service lifecycle."
+  "latestVersion": "1.4.3",
+  "apkDownloadUrl": "https://github.com/IRISX-AI/IRIS-X/releases/download/v1.4.3/IRIS-MX.v1.4.3.apk",
+  "releaseNotes": "IRIS-MX v1.4.3\n• New black-and-orange interface, circular animated IRIS portrait and smoother voice waveform.\n• Improved background commands, headset routing, voice interruption and optional offline hey iris wake word.\n• WhatsApp searches chats and groups directly, replaces old drafts with your latest message and avoids repeated searches and sends.\n• India defaults to Hinglish, with saved language preferences, five IRIS voices and a preferred name.\n• Added weather, news, stocks, currency and more Android controls.\n• Cleaner Settings, targeted permission shortcuts and manufacturer background guides.\n• Strengthened paid access and two-phone account protection, in-app policies, session recovery and compatible OTA updates."
 }
